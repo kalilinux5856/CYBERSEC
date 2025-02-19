@@ -1,0 +1,4 @@
+flask
+requests
+tldextract
+urllib3 
